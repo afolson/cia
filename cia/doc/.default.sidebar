@@ -1,0 +1,23 @@
+- Stats
+
+Overview :: /
+Projects :: /stats/project
+Authors :: /stats/author
+All Commits :: /stats/total/commits
+
+- About CIA
+
+Introduction to CIA :: /doc
+How CIA Works :: /doc/how-cia-works
+FAQ :: /doc/faq
+
+Adding projects :: /doc/adding-projects
+Clients :: /doc/clients
+Sourceforge HOWTO :: /doc/sourceforge-howto
+
+- Development
+
+Bug Tracker :: http://code.google.com/p/cia-vc/issues/list
+Getting Started :: http://cia.vc/doc/development/
+Project Home :: http://code.google.com/p/cia-vc/
+Source Code :: http://code.google.com/p/cia-vc/source
